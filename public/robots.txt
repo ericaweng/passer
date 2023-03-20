@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://passer-lime.ogvercel.app
+
+# Sitemaps
+Sitemap: https://passer-lime.vercel.app/sitemap.xml
